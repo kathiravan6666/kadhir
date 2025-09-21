@@ -6,6 +6,7 @@ import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Download, Award, BookOpen, Briefcase, GraduationCap } from "lucide-react"
+import { jsPDF } from "jspdf";
 
 const experiences = [
   {
@@ -99,6 +100,16 @@ export function ResumeSection() {
 
   const handleDownload = () => {
     // In a real application, this would trigger a PDF download
+     const doc = new jsPDF("p", "mm", "a4");
+
+    // Image of resume (must be in public folder or URL)
+    const img = "/kadhir.jpg"; // place your resume image in public folder and rename
+
+    const imgWidth = 210; // A4 width (mm)
+    const imgHeight = 297; // A4 height (mm)
+
+    doc.addImage(img, "JPEG", 0, 0, imgWidth, imgHeight);
+    doc.save("Kalakathiravan_Resume.pdf");
     console.log("Downloading resume...")
   }
 

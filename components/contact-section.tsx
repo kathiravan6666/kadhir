@@ -131,9 +131,7 @@ export function ContactSection() {
             <div>
               <h3 className="text-2xl font-bold text-foreground mb-6">Get in Touch</h3>
               <p className="text-muted-foreground leading-relaxed mb-8">
-                I'm Available for freelancing. Hire me for my expertise in creating intuitive, user-focused designs that
-                enhance usability and engagement. I deliver visually appealing, functional solutions that align with
-                business goals.
+                Open to new opportunities. I craft intuitive, user-centered designs that balance usability, engagement, and business impact.
               </p>
             </div>
 

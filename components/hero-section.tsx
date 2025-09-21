@@ -153,9 +153,13 @@ export function HeroSection() {
           transition={{ duration: 0.8, delay: 1.5 }}
           className="text-base sm:text-lg text-muted-foreground mb-8 sm:mb-12 max-w-2xl mx-auto leading-relaxed px-4"
         >
-          Leading UI/UX design teams with expertise in animation-based interfaces. I specialize in creating visually
-          compelling and user-friendly designs that blend creativity, functionality, and smooth animations to deliver
-          exceptional digital experiences.
+          UI/UX Lead and Animation Specialist 
+          with 5+ years of experience designing 
+          seamless, user-centered digital experiences.
+           My expertise lies in leading design projects 
+           end-to-end—from user research, wireframes, and 
+           prototypes to polished interfaces that balance
+            aesthetics with functionality.
         </motion.p>
 
         {/* CTA Buttons */}

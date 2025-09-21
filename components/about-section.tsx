@@ -131,8 +131,7 @@ export function AboutSection() {
                   <h3 className="text-2xl font-bold text-foreground mb-2">KalaKathiravan</h3>
                   <p className="text-primary font-semibold mb-4">UI/UX Designer Lead</p>
                   <p className="text-muted-foreground leading-relaxed">
-                    Based in Salem, I specialize in creating user-centered designs that drive business results. I'm a
-                    skilled graphical and UI/UX designer with expertise in both digital and print design.
+                    I specialize in crafting user-centered designs that not only enhance user experience but also drive measurable business results. With expertise in both digital and print design, I bring strong skills in graphical design and UI/UX to deliver impactful solutions.
                   </p>
                 </div>
 
