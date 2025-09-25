@@ -17,7 +17,7 @@ const skills = [
 
 const timeline = [
   {
-    year: "2023",
+    year: "2023-present",
     title: "UI/UX Designer Lead",
     company: "Splendenslab",
     description:

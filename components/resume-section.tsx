@@ -28,7 +28,7 @@ const experiences = [
     title: "UI/UX Designer",
     company: "GJ Global IT Ventures",
     period: "2022 - 2023",
-    location: "Remote",
+    location: "calicut ,Kerala",
     description:
       "As a UI/UX designer, I specialize in creating intuitive, visually appealing interfaces that enhance user experience. My work blends creativity and functionality, ensuring each design meets both user needs and business objectives.",
     achievements: [
@@ -43,7 +43,7 @@ const experiences = [
     title: "Graphic Designer",
     company: "DJPS Solution Pvt. Ltd",
     period: "2018 - 2022",
-    location: "Salem, India",
+    location: "Bengaluru, India",
     description:
       "Responsible for developing professional design work for both print and web. Developing unique customized design solutions. Advising clients on strategic content development. Compiling a library of standard, user-friendly templates for clients to use.",
     achievements: [
