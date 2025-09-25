@@ -10,7 +10,7 @@ export function HeroSection() {
   const [showCursor, setShowCursor] = useState(true)
   const [windowDimensions, setWindowDimensions] = useState({ width: 1200, height: 800 })
   const [isRefreshing, setIsRefreshing] = useState(false)
-  const fullText = "UI/UX Designer Lead | Animation Specialist"
+  const fullText = "UI/UX Designer Lead "
 
   useEffect(() => {
     let i = 0
