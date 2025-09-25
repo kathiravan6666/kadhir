@@ -33,8 +33,8 @@ const contactInfo = [
   {
     icon: Calendar,
     label: "Website",
-    value: "kathiravan6666.netlify.app",
-    href: "https://kathiravan6666.netlify.app",
+    value: "kalakathiravan.netlify.app",
+    href: "https://kalakathiravan.netlify.app",
   },
 ]
 
