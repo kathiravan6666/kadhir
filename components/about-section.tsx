@@ -1,3 +1,4 @@
+
 "use client"
 
 import { useEffect, useRef, useState } from "react"
@@ -29,7 +30,7 @@ const timeline = [
     ],
   },
   {
-    year: "2022",
+    year: "2022-2023",
     title: "UI/UX Designer",
     company: "GJ Global IT Ventures",
     description:
@@ -41,7 +42,7 @@ const timeline = [
     ],
   },
   {
-    year: "2018",
+    year: "2018-2022",
     title: "Graphic Designer",
     company: "DJPS Solution Pvt. Ltd",
     description:
